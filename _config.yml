@@ -1,6 +1,6 @@
 COPY PASTE giant text of code from lesson 3
 
-title: Aleena's page # EDIT: Fill this in
+title: Aleena's page
 description: <description of your web page> # EDIT: Fill this in
 
 remote_theme: pmarsceill/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
